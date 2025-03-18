@@ -16,10 +16,8 @@
   --highlight-color-hover: rgba(53, 52, 48, 0.4);
 }
 
-.theme-light .page {
-  .record {
-    display: none;
-  }
+.theme-light .page .record {
+  display: none;
 }
 
 @media (prefers-color-scheme: light) {
@@ -34,9 +32,8 @@
     --highlight-color-hover: rgba(53, 52, 48, 0.4);
   }
 
-  .page { 
-    .record {
-      display: none;
-    }
+  .page .record {
+    display: none;
   }
+
 }
