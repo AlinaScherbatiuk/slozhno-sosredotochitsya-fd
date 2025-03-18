@@ -16,12 +16,7 @@
 }
 
 .theme-dark .page {
-
-  background-image: var(--background-image);
-  background-color: var(--background-color);
-
   .record {
     display: block;
-    position: absolute;
   }
 }

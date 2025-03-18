@@ -17,9 +17,6 @@
 }
 
 .theme-light .page {
-
-  background-image: var(--background-image);
-
   .record {
     display: none;
   }
@@ -37,10 +34,7 @@
     --highlight-color-hover: rgba(53, 52, 48, 0.4);
   }
 
-  .page {
-
-    background-image: var(--background-image);
-
+  .page { 
     .record {
       display: none;
     }
